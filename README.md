@@ -1,5 +1,7 @@
 # MNIST Digit Classification
 
+[![ML Pipeline](https://github.com/tusharpatidar/erav3-session5/actions/workflows/ml-pipeline.yml/badge.svg)](https://github.com/tusharpatidar/erav3-session5/actions/workflows/ml-pipeline.yml)
+
 # Lightweight CNN for Digit Recognition
 
 A PyTorch implementation of a memory-efficient convolutional neural network for MNIST digit classification. Achieves >95% accuracy in single epoch with <25K parameters.
